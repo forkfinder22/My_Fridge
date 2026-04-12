@@ -1,46 +1,86 @@
 title: Root Scene
 new-page: true
-go-to: post_event if started = 1; start_menu if started = 0
+go-to: start_menu if started = 0
 
 @start_menu
 new-page: true
 go-to: start_menu_2
 
-= The Atomic Timeline
+= My Fridge
 
 @start_menu_2
 
 - @start: <span style="color:#ffd700;">Start game</span>
 
-
 @start
-on-arrival: {!
-Q.started = 1;
-Q.dalton_visited = 0;
-Q.thomson_visited = 0;
-Q.rutherford_visited = 0;
-Q.bohr_visited = 0;
-Q.other_visited = 0;
-Q.thanks_visited = 0;
-!}
-new-page: true
 
-> *"Those who are not shocked when they first come across quantum mechanics cannot possibly have understood it."*
+- @food1: Lamb Stew (Cultural & Family)
+- @food2: Licorice (Emotional & Food Availability)
+- @food3: Hotdog (Social & Media)
+- @food4: Cucumber (Physiological & Emotional)
+- @food5: Kraft Dinner Mac & Cheese (Emotional & Media)
+- @food6: Chicken Tenders (Media & Food Availability)
+- @food7: Duck Roast (Physiological & Family)
+- @food8: Thanksgiving Roast (Family & Media)
+- @food9: Apple (Physiological & Media)
+- @food0: Orange (Food Availability & Physiological)
 
- - Niels Bohr, Qouted in *H R Pagels*, **The Cosmic Code**, 1982
+@food1
+view-if: food1_visted = 0
+on-arrival: food1_visited = 1
 
-This is a game of non-fiction, and is not intended to be played as a game, rather as an interactive non-fiction "slideshow" (Of sorts)<br />
+wip1
 
-To learn about a scientist, click on the <span style="color:#34b233;">**deck**</span>. This will draw a <span style="color:#000080;'>Scientist Card</span>, in chronological order for the scientists I have selected.<br />
+@food2
+view-if: food2_visited = 0 and food1_visited = 1
+on-arrival: food2_visited = 1
 
-When you click the <span style="color:#000080;">Scientist Card</span>, You will be taken to a menu with various options regarding their contributions to sciences, and more importantly, to <span style="color:#ff0000;">at</span><span style="color:#4e9fe5;">om</span><span style="color:#888888;">s</span>.<br />
+wip2
 
-A short biography of the scientists can be found in the sidebar. The Biography will appear when you enter the <span style="color:#000080;">Scientist Card</span>, and disappear when you exit it.<br />
+@food3
+view-if: food3_visited = 0 and food2_visited = 1
+on-arrival: food3_visited = 1
 
-- @begin: *<span style="color:#ffd700;">**Begin**</span>*
+wip3
 
-@begin
-new-page: true
-go-to: main
+@food4
+view-if: food4_visited = 0 and food3_visited = 1
+on-arrival: food4_visited = 1
 
-= The Atomic Timeline
+wip4
+
+@food5
+view-if: food5_visited = 0 and food4_visited = 1
+on-arrival: food5_visited = 1
+
+wip5
+
+@food6
+view-if: food6_visited = 0 and food5_visited = 1
+on-arrival: food6_visited = 1
+
+wip6
+
+@food7
+view-if: food7_visited = 0 and food6_visited = 1
+on-arrival: food7_visited = 1
+
+wip7
+
+@food8
+view-if: food8_visited = 0 and food7_visited = 1
+on-arrival: food8_visited = 1
+
+wop8
+
+@food9
+view-if: food9_visited = 0 and food8_visited = 1
+on-arrival: food9_visited = 1
+
+wip9
+
+@food0
+view-if: food0_visited = 0 and food9_visited = 1
+on-arrival: food0_visited = 1
+
+wip10
