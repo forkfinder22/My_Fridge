@@ -26,7 +26,7 @@ go-to: start_menu_2
 - @food0: <span style="color:#ffd700;">Orange (Food Availability & Physiological)</span>
 
 @food1
-view-if: food1_visted = 0
+view-if: food1_visited = 0
 on-arrival: food1_visited = 1
 
 wip1
