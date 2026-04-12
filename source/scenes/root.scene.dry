@@ -14,16 +14,16 @@ go-to: start_menu_2
 
 @start
 
-- @food1: Lamb Stew (Cultural & Family)
-- @food2: Licorice (Emotional & Food Availability)
-- @food3: Hotdog (Social & Media)
-- @food4: Cucumber (Physiological & Emotional)
-- @food5: Kraft Dinner Mac & Cheese (Emotional & Media)
-- @food6: Chicken Tenders (Media & Food Availability)
-- @food7: Duck Roast (Physiological & Family)
-- @food8: Thanksgiving Roast (Family & Media)
-- @food9: Apple (Physiological & Media)
-- @food0: Orange (Food Availability & Physiological)
+- @food1: <span style="color:#ffd700;">Lamb Stew (Cultural & Family)</span>
+- @food2: <span style="color:#ffd700;">Licorice (Emotional & Food Availability)</span>
+- @food3: <span style="color:#ffd700;">Hotdog (Social & Media)</span>
+- @food4: <span style="color:#ffd700;">Cucumber (Physiological & Emotional)</span>
+- @food5: <span style="color:#ffd700;">Kraft Dinner Mac & Cheese (Emotional & Media)</span>
+- @food6: <span style="color:#ffd700;">Chicken Tenders (Media & Food Availability)</span>
+- @food7: <span style="color:#ffd700;">Duck Roast (Physiological & Family)</span>
+- @food8: <span style="color:#ffd700;">Thanksgiving Roast (Family & Media)</span>
+- @food9: <span style="color:#ffd700;">Apple (Physiological & Media)</span>
+- @food0: <span style="color:#ffd700;">Orange (Food Availability & Physiological)</span>
 
 @food1
 view-if: food1_visted = 0
@@ -31,11 +31,15 @@ on-arrival: food1_visited = 1
 
 wip1
 
+- @goto_menu
+
 @food2
 view-if: food2_visited = 0 and food1_visited = 1
 on-arrival: food2_visited = 1
 
 wip2
+
+- @goto_menu
 
 @food3
 view-if: food3_visited = 0 and food2_visited = 1
@@ -43,11 +47,15 @@ on-arrival: food3_visited = 1
 
 wip3
 
+- @goto_menu
+
 @food4
 view-if: food4_visited = 0 and food3_visited = 1
 on-arrival: food4_visited = 1
 
 wip4
+
+- @goto_menu
 
 @food5
 view-if: food5_visited = 0 and food4_visited = 1
@@ -55,11 +63,15 @@ on-arrival: food5_visited = 1
 
 wip5
 
+- @goto_menu
+
 @food6
 view-if: food6_visited = 0 and food5_visited = 1
 on-arrival: food6_visited = 1
 
 wip6
+
+- @goto_menu
 
 @food7
 view-if: food7_visited = 0 and food6_visited = 1
@@ -67,11 +79,15 @@ on-arrival: food7_visited = 1
 
 wip7
 
+- @goto_menu
+
 @food8
 view-if: food8_visited = 0 and food7_visited = 1
 on-arrival: food8_visited = 1
 
 wop8
+
+- @goto_menu
 
 @food9
 view-if: food9_visited = 0 and food8_visited = 1
@@ -79,8 +95,16 @@ on-arrival: food9_visited = 1
 
 wip9
 
+- @goto_menu
+
 @food0
 view-if: food0_visited = 0 and food9_visited = 1
 on-arrival: food0_visited = 1
 
 wip10
+
+- @goto_menu
+
+@goto_menu
+title: <span style="color:#ffd700;">back</span>
+go-to: start
