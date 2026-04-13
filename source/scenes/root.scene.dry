@@ -41,9 +41,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
@@ -63,9 +63,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
@@ -85,9 +85,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
@@ -107,9 +107,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
@@ -129,9 +129,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
@@ -151,9 +151,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
@@ -173,9 +173,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
@@ -195,9 +195,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
@@ -217,9 +217,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
@@ -239,9 +239,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-Short Background
-Influence 1
-Influence 2
+<p>Short Background</p><br /><br />
+<p>Influence 1</p><br /><br />
+<p>Influence 2</p><br /><br />
 
 - @goto_menu
 
