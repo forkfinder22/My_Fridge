@@ -63,9 +63,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Short Background</p><br /><br />
-<p>Influence 1</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>Licorice (Specifically Liquorice Allsorts) was a type of candy invented in 1899, in Leicester, Britain. It is a sweet that has many mixed opinions - Many people like it, especially europeans, and many don't like it.</p><br /><br />
+<pThe first influence for this food is an emotional one - I really like licorice, and I will often eat it when I am stressed, assuming I have any.</p><br /><br />
+<p>The second influence for this food is an availabiltiy one - I can easily pick up licorice, by going to Walmart, BulkBarn, Dollarama, or Longo's. Additionally, a small bag if licorice isn't all that expensive - At Dollarama, you can get a bag for $2.25 after tax.</p><br /><br />
 
 - @goto_menu
 
@@ -85,9 +85,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Short Background</p><br /><br />
-<p>Influence 1</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>A Hotdog is a large piece of processed meat wrapped inside an intestine, usually of pig. They are cheap and plentiful, though lack in flavour</p><br /><br />
+<p>The first influence for this food is a social one - Often, when I go to parties or similar to social occasions, one of the food choices is hotdogs, especially at Barbecue's. Because there is oftne little other choice, I will eat a hotdog</p><br /><br />
+<p>The second influence for this food is a media one - Hotdogs are ubiquitous in North American culture - You see them everywhere, in advertisements, social media posts, storybooks, TV shows, even tattoos. As they are hard to escape seeing, they infest your mind wuith thoughts of hotdogs.</p><br /><br />
 
 - @goto_menu
 
@@ -107,7 +107,7 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Short Background</p><br /><br />
+<p> A Cucumber is a long green fruit, with a subtle, watery taste. </p><br /><br />
 <p>Influence 1</p><br /><br />
 <p>Influence 2</p><br /><br />
 
