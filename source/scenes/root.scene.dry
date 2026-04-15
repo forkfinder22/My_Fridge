@@ -14,7 +14,7 @@ go-to: start_menu_2
 
 @start
 
-- @food1: <span style="color:#ffd700;">Lamb Stew (Cultural & Family)</span>
+- @food1: <span stlye="color:#F9CBD3;">Lamb</span><span style="color:#ffd700;"> Stew (Cultural & Family)</span>
 - @food2: <span style="color:#ffd700;">Licorice (Emotional & Food Availability)</span>
 - @food3: <span style="color:#ffd700;">Hotdog (Social & Media)</span>
 - @food4: <span style="color:#ffd700;">Cucumber (Physiological & Emotional)</span>
@@ -42,8 +42,8 @@ on-display: {!
 !}
 
 <p>Lamb Stew is a traditional Anglophone dish, but was actually invented in Ireland as a peasant dish. It generally consists of <span stlye="color:#F9CBD3;">lamb</span>, <span style="color:#E16E6E;">beef</span>, or <span style="color;#F1EEDB;">chicken</span> stock, lamb, and varied <span style="color:#008000;">vegetables</span>, like <span style="color:#ff0000;">carrots</span>, <span style="color:#895129;">potatoes</span>, <span style="color:8eab12;">peas</span>, and <span style="color:#A29A91;">mushrooms</span></p><br /><br />
-<p>One of the influences I have when picking this dish is a cultural influence - I was born in northern <span style="color:#ffffff;">England</span> (<span style="color:#CF142B;">New</span><span style="color:#F7E017;">cas</span><span style="color:#CF142B;">tle</span> upon <span style="color:#344B9E;">T</span><span style="color:#FFFFFF;">yn</span><span style="color:#344B9E;">e</span>) where stews are a very common dish, especially in the cool season (e.g. not mid-to-late summer). I was also raised in <span style="color:#C8102E;">Denmark</span>, where stews are also pretty common</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>One of the influences I have when eating this dish is a cultural influence - I was born in northern <span style="color:#ffffff;">England</span> (<span style="color:#CF142B;">New</span><span style="color:#F7E017;">cas</span><span style="color:#CF142B;">tle</span> upon <span style="color:#344B9E;">T</span><span style="color:#FFFFFF;">yn</span><span style="color:#344B9E;">e</span>) where stews are a very common dish, especially in the cool season (e.g. not mid-to-late summer). I was also raised in <span style="color:#C8102E;">Denmark</span>, where stews are also pretty common</p><br /><br />
+<p>The other influence I have  when eating this dish is a family influence - Every <span stlye="color:#80EF80;">Easter</span>, as well as on other special occasions, my family has <span stlye="color:#F9CBD3;">lamb</span> for dinner.</p><br /><br />
 
 - @goto_menu
 
