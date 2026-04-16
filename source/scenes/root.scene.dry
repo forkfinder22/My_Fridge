@@ -151,9 +151,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Chicken Tenders</p><br /><br />
-<p>My first influence for this food is a Media one - </p><br /><br />
-<p>My second influence for this food is a Food Availability - </p><br /><br />
+<p>Chicken Tenders are breaded strips of chicken baked in an oven. They can be made by hand, or bought frozen</p><br /><br />
+<p>My first influence for this food is a Media one - Chicken Tenders & chicken nuggets are very common foods that appear in media, both advertisements and recreational.</p><br /><br />
+<p>My second influence for this food is a Food Availability - I almost always have chicken tenders in my house, and I know the instructions by heart, meaning that if I have time, they are a solid choice</p><br /><br />
 
 - @goto_menu
 
