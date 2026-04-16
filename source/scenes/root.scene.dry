@@ -108,8 +108,8 @@ on-display: {!
 !}
 
 <p> A Cucumber is a long green fruit, with a subtle, watery taste. </p><br /><br />
-<p>Influence 1</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>My first influence for this food is a Physiological one - Cucumbers are healthy for you as they are full of fiber and vitamins like Vitamin K, and Vitamin C, as well as minerals like Magnesium and Potassium</p><br /><br />
+<p>My second influence for this food is an Emotional one - My favourite Non-meal food is cucumber, and when I am stressed, I will sometimes eat cucumber to have less stress</p><br /><br />
 
 - @goto_menu
 
@@ -129,9 +129,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Short Background</p><br /><br />
-<p>Influence 1</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>Kraft Mac & Cheese, or Kraft Dinner as it is called in Canada, is the flagship product of Kraft Heinz, which is also known for producing Heinz Ketchup. Kraft Heinz itself is a merger of Kraft and Heinz.</p><br /><br />
+<p>The first influence for this is an Emotional one - I used to eat Kraft Dinner a lot when I was a kid, which means when I eat kraft dinner now, I get reminded of being a small child </p><br /><br />
+<p>The second influence for this is a Media one - When I do see advertisements, sometimes they are for Kraft Dinner, which will sometiems make me want to eat some if I am already in the mood for pasta</p><br /><br />
 
 - @goto_menu
 
@@ -151,9 +151,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Short Background</p><br /><br />
-<p>Influence 1</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>Chicken Tenders</p><br /><br />
+<p>My first influence for this food is a Media one - </p><br /><br />
+<p>My second influence for this food is a Food Availability - </p><br /><br />
 
 - @goto_menu
 
