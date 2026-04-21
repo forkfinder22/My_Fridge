@@ -173,9 +173,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Short Background</p><br /><br />
-<p>Influence 1</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>A Duck roast is a type of roast where you have a duck (Roasted) along with potatoes and peas</p><br /><br />
+<p>My first influence is a Physiological one - Duck roasts can be healthy for you, as the proteins and fats can cover for you if you have not had anything else much of substance. Peas are also healthy becuase they have lots of vitamins</p><br /><br />
+<p>My second influence is a Family one - My family always has a duck roast for dinner on Christmas Day</p><br /><br />
 
 - @goto_menu
 
@@ -195,9 +195,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Short Background</p><br /><br />
-<p>Influence 1</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>Thanksgiving roasts are a type of roast where a turkey is roasted, than served along mashed potatoes, gravy, crnaberry sauce, peas, beets, corn, and some sort of pie dessert, like pumpkin pie.</p><br /><br />
+<p>My first influence is a Family one - every thanksgiving, we go down to a relatives house, and share thanksgiving roast</p><br /><br />
+<p>My second influence is a Media one - Western media will often make "Thanksgiving" themed events, episodes, or rebrands, depending on the medium of which the media is shared</p><br /><br />
 
 - @goto_menu
 
@@ -217,9 +217,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Short Background</p><br /><br />
-<p>Influence 1</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>Apples are a roughly spherical fruit, of varying sizes and colours (Though most are red, yellow, or green)</p><br /><br />
+<p>My first influence is a Physiological one - Apples are very health for you, containg lots of fibres, healthy sugars, and vitamins</p><br /><br />
+<p>My second influence is Media one - Apples are very common in Western media ad culture with sayings such as "An apple a day keeps the doctor away", and common associations in meida being with Teachers, Doctors, and Health</p><br /><br />
 
 - @goto_menu
 
@@ -239,7 +239,7 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Short Background</p><br /><br />
+<p>Orange</p><br /><br />
 <p>Influence 1</p><br /><br />
 <p>Influence 2</p><br /><br />
 
