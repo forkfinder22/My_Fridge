@@ -239,9 +239,9 @@ on-display: {!
     contentDiv.appendChild(cardEl);
 !}
 
-<p>Orange</p><br /><br />
-<p>Influence 1</p><br /><br />
-<p>Influence 2</p><br /><br />
+<p>Oranges are a spherical, orange fruit, with an acidic, fleshy inside sparesely populated with seeds, and a tough, bitter outside</p><br /><br />
+<p>My first influence is a Physiological one - Oranges are very healthy for you as the contain lots of vitamins and minerals, especially Vitamin C.</p><br /><br />
+<p>My second influence is a Food Availability one - I usually have 4-8 oranges lying around in my fruit drawer, which makes sure I can always have an orange. </p><br /><br />
 
 - @goto_menu
 
